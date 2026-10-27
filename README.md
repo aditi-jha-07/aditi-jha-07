@@ -119,15 +119,6 @@ I'm an **Information Systems professional** who loves turning complex problems i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-jha-07&show_icons=true&theme=radical&hide_border=false&rank_icon=github)
-
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=aditi-jha-07&theme=radical&hide_border=false)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-jha-07&theme=radical&hide_border=false&layout=compact)
 
 ### ✍️ A Little Developer Inspiration
 ![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
