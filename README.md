@@ -1,21 +1,139 @@
-# 💫 About Me:
-I am a motivated Information Systems professional pursuing a Master of Science in Information Systems (expected graduation May 2026), equipped with a robust blend of technical expertise, analytical prowess, and problem-solving abilities tailored for dynamic IT and business landscapes. With hands-on experience in systems engineering, cybersecurity, automation, data analytics, and enterprise technologies like Power Platform (Power BI and Power Automate), Python scripting, and research for IEEE conferences, I excel at designing, implementing, and optimizing technology-driven solutions that enhance operational efficiency, strengthen security postures, and empower data-informed decision-making. Currently, I am working on automation bots for job applications, refining research papers on quantum-resistant cryptography, and building workflows in HubSpot/Salesforce integrations; I am eager to collaborate on cybersecurity projects, IT automation initiatives, or academic research in systems engineering; I am looking for help with advanced troubleshooting of intermittent issues, SAP SuccessFactors implementation, and visa/conference logistics; and I am currently learning Chinese language basics alongside deeper quantum cryptography and technical presentation skills. Feel free to reach out or ask me about coding automation scripts, Power BI dashboards, resume optimization for ATS systems, research methodology in APA/IEEE formats, or building bots for professional networking on LinkedIn. Fun fact: I once automated an entire job application process with a Python bot that saved me over 20 hours a week during my intensive job search!<br>
+<div align="center">
+
+# 💜 Hey there, I'm Aditi Jha! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD5FFF&center=true&vCenter=true&width=750&lines=Information+Systems+Engineer+%F0%9F%92%BB;SAP+%7C+Enterprise+IT+%7C+Automation+%E2%9A%A1;Data+Analytics+%7C+Cybersecurity+%F0%9F%94%90;AI+Enthusiast+%7C+Forever+Learning+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+**🎓 M.S. in Information Systems · Central Michigan University · 2026**  
+**📍 Michigan, USA | 🌎 Open to connecting worldwide**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditiajha/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://aditialpeshkumarjha.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditijha7804@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-jha-07)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditi Alpeshkumar Jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jha2a@cmich.edu) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditi-jha-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aditi-jha-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-jha-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aditi-jha-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm an **Information Systems professional** who loves turning complex problems into elegant technical solutions. I completed my **M.S. in Information Systems at Central Michigan University (GPA: 3.63/4.00)** and bring experience spanning **enterprise IT, automation, backend engineering, data analytics, SAP, and cybersecurity**.
+
+💼 At **Central Michigan University**, I support technology services for **1,000+ users**, troubleshoot enterprise applications and networks, help test and validate system migrations, and develop **Python automation scripts** to reduce repetitive IT work. My toolkit also includes hands-on enterprise administration using **Microsoft 365, Entra ID, Intune, Defender, Purview, PowerShell, and Microsoft Graph**.
+
+📊 During my **Amazon People Technology & Analytics externship**, I analyzed workforce data using SQL and created **Power BI dashboards**. Previously, at **Qurious Click**, I built backend functionality and REST APIs using PHP and MySQL.
+
+🌐 I also enjoy connecting technology to business processes through **SAP S/4HANA, SAP ABAP, and cross-module SD–FI/CO integration**.
+
+### 🤖 AI Enthusiast | Curious by Nature, Always Evolving
+
+**I have a genuine hunger to learn, experiment, and grow alongside the ever-evolving world of AI.** I don't see AI as a trend to follow—I see it as an opportunity to rethink how we engineer systems, automate workflows, work with data, and solve problems. I'm constantly exploring new ideas, learning emerging tools, and challenging myself to keep up with what's next. 🚀
+
+- 🔭 **Currently working on:** Enterprise IT operations, troubleshooting, scripting, and workflow automation
+- 🌱 **Currently exploring:** Applied AI, intelligent automation, modern data engineering, and cloud technologies
+- 🤝 **Open to collaborating on:** AI-assisted workflows, SAP applications, automation, data analytics, and cybersecurity
+- 💬 **Ask me about:** Python, SQL, PowerShell, SAP ABAP, Microsoft enterprise tools, REST APIs, and Power BI
+- ✨ **My mindset:** *Stay curious. Keep building. Never stop evolving.*
+
+---
+
+# 💻 Tech Stack
+
+### 👩‍💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-0FA6D4?style=for-the-badge&logo=sap&logoColor=white)
+
+### 🏢 Enterprise IT & Microsoft Ecosystem
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID-635BFF?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Defender](https://img.shields.io/badge/Microsoft_Defender-0067B8?style=for-the-badge&logo=microsoft&logoColor=white)
+![Purview](https://img.shields.io/badge/Microsoft_Purview-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0089D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### 💼 SAP & Enterprise Business Systems
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FA6D4?style=for-the-badge&logo=sap&logoColor=white)
+![SAP ECC](https://img.shields.io/badge/SAP_ECC-087EA4?style=for-the-badge&logo=sap&logoColor=white)
+![SAP FI/CO](https://img.shields.io/badge/SAP_FI%2FCO-015F9A?style=for-the-badge&logo=sap&logoColor=white)
+![SAP SD](https://img.shields.io/badge/SAP_SD-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![SAP MM](https://img.shields.io/badge/SAP_MM-24A1D5?style=for-the-badge&logo=sap&logoColor=white)
+![SAP PP](https://img.shields.io/badge/SAP_PP-0070AD?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Business Data Cloud](https://img.shields.io/badge/SAP_Business_Data_Cloud-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+
+### 📊 Data & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-8A2BE2?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-FF6F61?style=for-the-badge)
+
+### ☁️ Cloud, DevOps & Developer Tools
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00C853?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Experience & Projects
+
+| 🌟 Highlight | 💡 What I worked on |
+|---|---|
+| 🛠️ **CMU — IT Automation & Enterprise Support** | Python scripts for recurring support tasks; root-cause analysis; migration testing, UAT, and enterprise support for 1,000+ users. |
+| 💊 **SAP ABAP Pharmaceutical Batch Validation** | Designed Z-tables, a validation function module, ALV reports, and business rules for country registration, shelf life, and compliance holds. |
+| 🔗 **SAP S/4HANA SD–FI/CO Integration** | Configured SD structures and completed the Order-to-Cash flow with GL, AR, AP, and reconciliation processes in an academic implementation. |
+| 🔄 **SAP ECC Data Validation** | Created a Python ETL/ELT evaluation framework and used SQL optimization techniques to examine data across MM, PP, and SD processes. |
+| 📈 **Amazon — Workforce Analytics Externship** | Analyzed workforce data in SQL and built Power BI KPI dashboards to support reporting and operational insights. |
+| 🌐 **Qurious Click — Backend Development** | Built PHP/MySQL REST APIs and optimized SQL queries, improving query performance by approximately 15%. |
+
+> 🔐 *Internal campus configurations, credentials, and production data are not published in this profile.*
+
+## 🎓 Education & Certifications
+
+🎓 **M.S. in Information Systems** — Central Michigan University, May 2026 · **GPA 3.63/4.00**  
+🎓 **Bachelor of Computer Applications** — GLS University, April 2024
+
+![SAP Certified](https://img.shields.io/badge/SAP_Certified-Business_Data_Cloud-0FA6D4?style=for-the-badge&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-Solution_Architect_Course-087EA4?style=for-the-badge&logo=sap&logoColor=white)
+![Celonis](https://img.shields.io/badge/Celonis-Process_Mining-7C3AED?style=for-the-badge)
+![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-Essentials-FF6B00?style=for-the-badge)
+
+<sub>SAP Business Data Cloud certification: April 2026–April 2027. SAP BTP learning items are course completions, not separate professional certifications.</sub>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-jha-07&show_icons=true&theme=radical&hide_border=false&rank_icon=github)
+
+![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=aditi-jha-07&theme=radical&hide_border=false)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-jha-07&theme=radical&hide_border=false&layout=compact)
+
+### ✍️ A Little Developer Inspiration
+![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 💜 *Keep learning. Keep experimenting. Keep evolving—with AI and the world.* 🌍🤖
+
+</div>
